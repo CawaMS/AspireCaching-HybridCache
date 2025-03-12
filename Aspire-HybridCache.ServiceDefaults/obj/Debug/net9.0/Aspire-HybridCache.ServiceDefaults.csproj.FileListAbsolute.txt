@@ -1,0 +1,13 @@
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\bin\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.deps.json
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\bin\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.dll
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\bin\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.pdb
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.AssemblyInfo.cs
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.sourcelink.json
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.dll
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\refint\Aspire-HybridCache.ServiceDefaults.dll
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\Aspire-HybridCache.ServiceDefaults.pdb
+C:\Users\cawa\source\repos\AspireCaching-HybridCache\Aspire-HybridCache.ServiceDefaults\obj\Debug\net9.0\ref\Aspire-HybridCache.ServiceDefaults.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aK+Z/1Cd91xC0z4NQYFifIKGuJxpDMgnZUS3CDAYWac=",
+  "Source": "Aspire-HybridCache.ApiService",
+  "BasePath": "_content/Aspire-HybridCache.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
